@@ -1,0 +1,86 @@
+/*body{
+	color:#66BFBF;
+}
+p{
+	font-family: 'Source Serif Pro', serif;
+}
+span{
+	font-style: italic;
+}
+.name{
+	font-family:'Sacramento', serif;
+	font-weight: bold;
+	font-size: 5.625rem;
+	position: absolute;
+	margin-left: 30%;
+}
+.hobby{
+	position: absolute;
+	margin-left:40%;
+	margin-top:12%;
+	font-size:2.825rem;
+	line-height:2;
+}
+.top{
+	position: relative;
+	width:auto;
+	height:auto;
+	background-color:#EAF6F6;
+}
+.mountain{
+	position: absolute;
+	margin-top:22%;
+	margin-left:26%;
+}	
+.top-cloud{
+	position: absolute;
+	margin-left: 60%;
+}
+.bottom-cloud{
+	position: absolute;
+	margin-left: 20%;
+	margin-top:14%;
+}
+.middle{
+	position:relative;
+}
+
+.personal_Photo{
+	position:absolute;
+	margin-left: 45%;
+    margin-top: 50%;
+    width: 120px;
+
+}
+
+
+*/
+body{
+	text-align:center;
+	margin: 0;
+}
+
+.top{
+
+position: relative;
+width:100px;
+}
+.top-cloud{
+position: absolute;
+right:300px;
+top:40px;
+}
+.bottom-cloud{
+position:absolute;
+left: 280px;
+top:250px;
+}
+.name{
+margin: 120px 0 auto 0;;
+line-height:2 ;
+}
+
+.personal_Photo{
+	width: 10%;
+}
+	
